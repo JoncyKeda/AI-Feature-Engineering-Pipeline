@@ -1,4 +1,4 @@
-🧠 AI Feature Engineering Pipeline
+AI Feature Engineering Pipeline
 ## Automated ML Feature Generation & Optimization System
 
 AI Feature Engineering Pipeline is an intelligent machine learning preprocessing system designed to automate feature engineering, feature selection, dataset optimization, and preprocessing workflows for machine learning applications.
